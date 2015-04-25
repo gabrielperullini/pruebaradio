@@ -22,7 +22,7 @@ function pad2(number) {
 	return (number < 10 ? '0' : '') + number
 }
 
-var myaudioURL = 'http://190.52.32.13:8900/;';
+var myaudioURL = 'http://streaming507.com:8026/;';
 var myaudio = new Audio(myaudioURL);
 var isPlaying = false;
 var readyStateInterval = null;
