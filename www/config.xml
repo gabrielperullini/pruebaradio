@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.devgeeks.examplehtml5audiostreaming"
-        version   = "0.5.0">
-    <name>Example HTML5 Audio Streaming</name>
+        id        = "ar.com.dosclics.pruebaradio"
+        version   = "0.0.1">
+    <name>prueba radio aac</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
 
-    <author href="http://devgeeks.org" email="tommy@devgeeks.org">
-        Tommy-Carlos Williams
+    <author href="http://facebook.com/dosclics" email="gabriel@dosclics.com.ar">
+	dos clics
     </author>
     
     <feature name="http://api.phonegap.com/1.0/device" />
 
-    <preference name="phonegap-version" value="3.4.0" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
